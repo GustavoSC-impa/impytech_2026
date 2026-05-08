@@ -1,8 +1,8 @@
-# NOME_DO_PROJETO
+# IMPYTech : Curso Introdutório de Python IMPA Tech - IDOR
 
 # LOGO_AQUI
 
-Repositório criado para realização do curso de Python do IMPATECH orientado a aplicações médicas e estatísticas aos alunos do Instituto D'Or entre os dias 20/07 a 31/07 de forma presencial no IMPATECH.
+Repositório criado para realização do curso de Python do IMPA Tech orientado a aplicações médicas e estatísticas aos alunos do Instituto D'Or entre os dias 20/07 a 31/07 de forma presencial no IMPA Tech.
 
 ## METODOLOGIA:
 
@@ -26,12 +26,13 @@ Repositório criado para realização do curso de Python do IMPATECH orientado a
 
 ## MATERIAL BIBLIOGRÁFICO:
 
+- [LUTZ, Mark; ASCHER, David. Aprendendo Python. 2. ed. Porto Alegre: Bookman, 2007.](https://www.facom.ufu.br/~william/Disciplinas%202019-1/BIOTCH-GBT017-IntoducaoInformatica/285173966-aprendendo-python-pdf.pdf)
+
 ## LINKS UTEIS:
 
 - [Baixar o Github Desktop](https://desktop.github.com/download/)
 - [Como Utilizar o Google Colab](https://www.hostgator.com.br/blog/google-colab-rodar-python/)
 - [W3Schools - Tutorial de Python](https://www.w3schools.com/python/default.asp)
-- [LUTZ, Mark; ASCHER, David. Aprendendo Python. 2. ed. Porto Alegre: Bookman, 2007.](https://www.facom.ufu.br/~william/Disciplinas%202019-1/BIOTCH-GBT017-IntoducaoInformatica/285173966-aprendendo-python-pdf.pdf)
 
 ## PARTICIPANTES: 
 
