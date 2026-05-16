@@ -2,7 +2,7 @@
 
 # 🐍 IMPYTech: Curso Introdutório de Python
 ### 🏥 IMPA Tech — IDOR (Aplicações Médicas e Estatísticas)
-![Logo](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Logo](https://img.shields.io/badge/Python-3.10.12-blue?style=for-the-badge&logo=python)
 
 ![Status](https://img.shields.io/badge/Status:-Em_Andamento-yellow?style=for-the-badge)
 
