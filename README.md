@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="WhatsApp Image 2026-05-08 at 17 26 12" src="images/logo_preta_outline.png" />
+<img width="960" height="540" alt="Logo preta sticker" src="images/Sticker.png" />
 
 # 🐍 IMPYTech: Curso Introdutório de Python
 ### 🏥 IMPA Tech — IDOR (Aplicações Médicas e Estatísticas)
@@ -66,7 +66,6 @@ O curso adota uma abordagem **Hands-on** (mão na massa), combinando teoria e pr
 - Gabriel Ferreira Silva
 - Guilherme Willemen Pimentel de Castro
 - Gustavo Cardoso
-- Jonas Araujo Alves
 - Juan Martins Santos
 - Lucas Vieira Silva
 - Matheus Mundstock Mendes de Carvalho
