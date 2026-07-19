@@ -1,0 +1,2 @@
+Nome: Ana | Glicemia: 90 mg/dL
+Nome: Bruno | Glicemia: 110 mg/dL
