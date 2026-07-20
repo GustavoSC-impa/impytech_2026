@@ -72,8 +72,9 @@ Cria uma cópia do projeto no seu GitHub e baixa os arquivos para a sua máquina
 
 ## ⛓️ LINKS UTEIS:
 
-- [Baixar o Github Desktop](https://desktop.github.com/download/)
 - [Como Utilizar o Google Colab](https://www.hostgator.com.br/blog/google-colab-rodar-python/)
+- [Fazer um fork de um repositório](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+- [Clonar um repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
 - [W3Schools - Tutorial de Python](https://www.w3schools.com/python/default.asp)
 
 ---
