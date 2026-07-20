@@ -82,13 +82,13 @@ Cria uma cópia do projeto no seu GitHub e baixa os arquivos para a sua máquina
 
 #### Coordenador: Emilio Ashton Vital Brazil
 #### Alunos: 
-- Bianca Zavadisk de Abreu
-- Bruno Pereira de Paula
-- Carlos Eduardo Machado dos Santos
-- Cristiane Magarinos Sampaio
-- Gabriel Ferreira Silva
-- Gustavo Cardoso
-- Lucas Vieira Silva
-- Matheus Mundstock Mendes de Carvalho
-- Pedro Rodrigues Alberti
-- Ryan Felinto
+- Bianca Zavadisk de Abreu (al.bianca.abreu@impatech.edu.br)
+- Bruno Pereira de Paula (al.bruno.paula@impatech.edu.br)
+- Carlos Eduardo Machado dos Santos (al.carlos.santos@impatech.edu.br)
+- Cristiane Magarinos Sampaio (al.cristiane.sampaio@impatech.edu.br)
+- Gabriel Ferreira Silva (al.gabriel.silva@impatech.edu.br)
+- Gustavo Cardoso (al.gustavo.cardoso@impatech.edu.br)
+- Lucas Vieira Silva (al.lucas.silva@impatech.edu.br)
+- Matheus Mundstock Mendes de Carvalho (al.mateus.carvalho@impatech.edu.br)
+- Pedro Rodrigues Alberti (al.pedro.alberti@impatech.edu.br)
+- Ryan Kevin da Costa Felinto (al.ryan.felinto@impatech.edu.br)
