@@ -21,24 +21,44 @@ O curso adota uma abordagem **Hands-on** (mão na massa), combinando teoria e pr
 
 ## 📅 CRONOGRAMA:
 
-- **20/07 - AULA 1: SLIDES, NOTEBOOKS, DESAFIO**
-- **21/07 - AULA 2: SLIDES, NOTEBOOKS, DESAFIO**
-- **22/07 - AULA 3: SLIDES, NOTEBOOKS, DESAFIO**
-- **23/07 - AULA 4: SLIDES, NOTEBOOKS, DESAFIO**
-- **24/07 - AULA 5: SLIDES, NOTEBOOKS, DESAFIO**
-- **27/07 - AULA 6: SLIDES, NOTEBOOKS, DESAFIO**
-- **28/07 - AULA 7: SLIDES, NOTEBOOKS, DESAFIO**
-- **29/07 - AULA 8: SLIDES, NOTEBOOKS, DESAFIO**
-- **30/07 - AULA 9: SLIDES, NOTEBOOKS, DESAFIO**
-- **31/07 - AULA 10: SLIDES, NOTEBOOKS, DESAFIO**
+- **20/07 - [AULA 1](arquivos/aula%201/): [SLIDES](arquivos/aula%201/aula01_slides.pdf), [NOTEBOOK GUIADO](arquivos/aula%201/aula01_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%201/aula01_exercicios.ipynb), [GABARITO](arquivos/aula%201/aula01_gabarito.ipynb)**
+    - **[EXTRA: manipulação de string](arquivos/aula%201/aula01_EXTRA_manipulacao_de_string.ipynb), [EXTRA: tipos de variáveis](arquivos/aula%201/aula01_EXTRA_tipos_de_variaveis.ipynb)**
+- **21/07 - [AULA 2](arquivos/aula%202/): [SLIDES](arquivos/aula%202/aula02_slides.pdf), [NOTEBOOK GUIADO](arquivos/aula%202/aula02_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%202/aula02_exercicios.ipynb), [GABARITO](arquivos/aula%202/aula02_gabarito.ipynb)**
+    - **[EXTRA: aprofundamento](arquivos/aula%202/aula02_EXTRA_aprofundamento.ipynb)**
+- **22/07 - [AULA 3](arquivos/aula%203/): [NOTEBOOK GUIADO](arquivos/aula%203/aula03_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%203/aula03_exercicios.ipynb), [GABARITO](arquivos/aula%203/aula03_gabarito.ipynb)**
+- **23/07 - [AULA 4](arquivos/aula%204/): [NOTEBOOK GUIADO](arquivos/aula%204/aula04_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%204/aula04_exercicios.ipynb), [GABARITO](arquivos/aula%204/aula04_gabarito.ipynb)**
+    - **[EXTRA: Exercícios em Altair](arquivos/aula%204/aula04_EXTRA_exercicios.ipynb)**
+- **24/07 - [AULA 5](arquivos/aula%205/): [MINI PROJETO](arquivos/aula%205/projeto_biomedicina.ipynb)**
+- **27/07 - AULA 6: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
+- **28/07 - AULA 7: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
+- **29/07 - AULA 8: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
+- **30/07 - AULA 9: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
+- **31/07 - AULA 10: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
 
 ---
 
 ## 👣 PRIMEIROS PASSOS:
 
-* explicar como rodar o colab
-* explicar como arrumar o github desktop
+Você pode realizar o curso pelo navegador ou criar a sua própria cópia dos arquivos no seu computador.
 
+### Opção 1: Via Google Colab (Recomendado)
+Não exige instalação. Os códigos rodam direto na nuvem.
+
+1. Abra o arquivo do notebook (`.ipynb`) da aula desejada aqui no GitHub.
+2. Clique no botão **Open in Colab** no topo do arquivo.
+3. No Colab, vá em **Arquivo > Salvar uma cópia no Drive** (`File > Save a copy in Drive`). 
+4. Feche o original e use a sua cópia para fazer os exercícios sem perder as anotações.
+
+### Opção 2: Fork e Clone Local (Via Terminal)
+Cria uma cópia do projeto no seu GitHub e baixa os arquivos para a sua máquina. Requer o [Git](https://git-scm.com/) instalado.
+
+1. **Faça o Fork:** No canto superior direito desta página, clique no botão **Fork** e confirme em **Create fork**. Isso criará uma cópia exata do curso na sua própria conta do GitHub.
+2. **Copie a URL:** Na página do *seu* novo repositório, clique no botão verde **`<> Code`** e copie o link (HTTPS).
+3. **Clone para o PC:** Abra o terminal (ou Prompt de Comando) e digite o comando abaixo, colando o link que você copiou:
+   ```bash
+   git clone https://github.com/ry4n-felinto/impytech_2026.git
+   ```
+4. Acesse a pasta
 ---
 
 ## 📚 MATERIAL BIBLIOGRÁFICO:
@@ -64,11 +84,8 @@ O curso adota uma abordagem **Hands-on** (mão na massa), combinando teoria e pr
 - Carlos Eduardo Machado dos Santos
 - Cristiane Magarinos Sampaio
 - Gabriel Ferreira Silva
-- Guilherme Willemen Pimentel de Castro
 - Gustavo Cardoso
-- Juan Martins Santos
 - Lucas Vieira Silva
 - Matheus Mundstock Mendes de Carvalho
-- Nathan Gabriel Spohr
 - Pedro Rodrigues Alberti
 - Ryan Felinto
