@@ -21,14 +21,17 @@ O curso adota uma abordagem **Hands-on** (mão na massa), combinando teoria e pr
 
 ## 📅 CRONOGRAMA:
 
+#### SEMANA 1:
 - **20/07 - [AULA 1](arquivos/aula%201/): [SLIDES](arquivos/aula%201/aula01_slides.pdf), [NOTEBOOK GUIADO](arquivos/aula%201/aula01_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%201/aula01_exercicios.ipynb), [GABARITO](arquivos/aula%201/aula01_gabarito.ipynb)**
     - **[EXTRA: manipulação de string](arquivos/aula%201/aula01_EXTRA_manipulacao_de_string.ipynb), [EXTRA: tipos de variáveis](arquivos/aula%201/aula01_EXTRA_tipos_de_variaveis.ipynb)**
 - **21/07 - [AULA 2](arquivos/aula%202/): [SLIDES](arquivos/aula%202/aula02_slides.pdf), [NOTEBOOK GUIADO](arquivos/aula%202/aula02_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%202/aula02_exercicios.ipynb), [GABARITO](arquivos/aula%202/aula02_gabarito.ipynb)**
     - **[EXTRA: aprofundamento](arquivos/aula%202/aula02_EXTRA_aprofundamento.ipynb)**
-- **22/07 - [AULA 3](arquivos/aula%203/): [NOTEBOOK GUIADO](arquivos/aula%203/aula03_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%203/aula03_exercicios.ipynb), [GABARITO](arquivos/aula%203/aula03_gabarito.ipynb)**
-- **23/07 - [AULA 4](arquivos/aula%204/): [NOTEBOOK GUIADO](arquivos/aula%204/aula04_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%204/aula04_exercicios.ipynb), [GABARITO](arquivos/aula%204/aula04_gabarito.ipynb)**
+- **22/07 - [AULA 3](arquivos/aula%203/): SLIDES, [NOTEBOOK GUIADO](arquivos/aula%203/aula03_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%203/aula03_exercicios.ipynb), [GABARITO](arquivos/aula%203/aula03_gabarito.ipynb)**
+- **23/07 - [AULA 4](arquivos/aula%204/): SLIDES, [NOTEBOOK GUIADO](arquivos/aula%204/aula04_notebook_guiado.ipynb), [EXERCÍCIOS](arquivos/aula%204/aula04_exercicios.ipynb), [GABARITO](arquivos/aula%204/aula04_gabarito.ipynb)**
     - **[EXTRA: Exercícios em Altair](arquivos/aula%204/aula04_EXTRA_exercicios.ipynb)**
 - **24/07 - [AULA 5](arquivos/aula%205/): [MINI PROJETO](arquivos/aula%205/projeto_biomedicina.ipynb)**
+
+#### SEMANA 2:
 - **27/07 - AULA 6: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
 - **28/07 - AULA 7: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
 - **29/07 - AULA 8: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
