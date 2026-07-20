@@ -22,14 +22,14 @@ O curso adota uma abordagem **Hands-on** (mão na massa), combinando teoria e pr
 ## 📅 CRONOGRAMA:
 
 #### SEMANA 1:
-- **20/07 - [AULA 1](aula%201/): [SLIDES](aula%201/aula01_slides.pdf), [NOTEBOOK GUIADO](aula%201/aula01_notebook_guiado.ipynb), [EXERCÍCIOS](aula%201/aula01_exercicios.ipynb), [GABARITO](aula%201/aula01_gabarito.ipynb)**
-    - **[EXTRA: manipulação de string](aula%201/aula01_EXTRA_manipulacao_de_string.ipynb), [EXTRA: tipos de variáveis](aula%201/aula01_EXTRA_tipos_de_variaveis.ipynb)**
-- **21/07 - [AULA 2](aula%202/): [SLIDES](aula%202/aula02_slides.pdf), [NOTEBOOK GUIADO](aula%202/aula02_notebook_guiado.ipynb), [EXERCÍCIOS](aula%202/aula02_exercicios.ipynb), [GABARITO](aula%202/aula02_gabarito.ipynb)**
-    - **[EXTRA: aprofundamento](aula%202/aula02_EXTRA_aprofundamento.ipynb)**
-- **22/07 - [AULA 3](aula%203/): SLIDES, [NOTEBOOK GUIADO](aula%203/aula03_notebook_guiado.ipynb), [EXERCÍCIOS](aula%203/aula03_exercicios.ipynb), [GABARITO](aula%203/aula03_gabarito.ipynb)**
-- **23/07 - [AULA 4](aula%204/): SLIDES, [NOTEBOOK GUIADO](aula%204/aula04_notebook_guiado.ipynb), [EXERCÍCIOS](aula%204/aula04_exercicios.ipynb), [GABARITO](aula%204/aula04_gabarito.ipynb)**
-    - **[EXTRA: Exercícios em Altair](aula%204/aula04_EXTRA_exercicios.ipynb)**
-- **24/07 - [AULA 5](aula%205/): [MINI PROJETO](aula%205/projeto_biomedicina.ipynb)**
+- **20/07 - [AULA 1](aula_01/): [SLIDES](aula_01/aula01_slides.pdf), [NOTEBOOK GUIADO](aula_01/aula01_notebook_guiado.ipynb), [EXERCÍCIOS](aula_01/aula01_exercicios.ipynb), [GABARITO](aula_01/aula01_gabarito.ipynb)**
+    - **[EXTRA: manipulação de string](aula_01/aula01_EXTRA_manipulacao_de_string.ipynb), [EXTRA: tipos de variáveis](aula_01/aula01_EXTRA_tipos_de_variaveis.ipynb)**
+- **21/07 - [AULA 2](aula_02/): [SLIDES](aula_02/aula02_slides.pdf), [NOTEBOOK GUIADO](aula_02/aula02_notebook_guiado.ipynb), [EXERCÍCIOS](aula_02/aula02_exercicios.ipynb), [GABARITO](aula_02/aula02_gabarito.ipynb)**
+    - **[EXTRA: aprofundamento](aula_02/aula02_EXTRA_aprofundamento.ipynb)**
+- **22/07 - [AULA 3](aula_03/): SLIDES, [NOTEBOOK GUIADO](aula_03/aula03_notebook_guiado.ipynb), [EXERCÍCIOS](aula_03/aula03_exercicios.ipynb), [GABARITO](aula_03/aula03_gabarito.ipynb)**
+- **23/07 - [AULA 4](aula_04/): SLIDES, [NOTEBOOK GUIADO](aula_04/aula04_notebook_guiado.ipynb), [EXERCÍCIOS](aula_04/aula04_exercicios.ipynb), [GABARITO](aula_04/aula04_gabarito.ipynb)**
+    - **[EXTRA: Exercícios em Altair](aula_04/aula04_EXTRA_exercicios.ipynb)**
+- **24/07 - [AULA 5](aula_05/): [MINI PROJETO](aula_05/projeto_biomedicina.ipynb)**
 
 #### SEMANA 2:
 - **27/07 - AULA 6: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
