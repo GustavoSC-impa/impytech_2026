@@ -28,12 +28,12 @@ O curso adota uma abordagem **Hands-on** (mão na massa), combinando teoria e pr
     - **[EXTRA: aprofundamento](aula_02/aula02_EXTRA_aprofundamento.ipynb)**
 - **22/07 - [AULA 3](aula_03/): [SLIDES](aula_03/aula03_slide.pdf), [NOTEBOOK GUIADO](aula_03/aula03_notebook_guiado.ipynb), [EXERCÍCIOS](aula_03/aula03_exercicios.ipynb), [GABARITO](aula_03/aula03_gabarito.ipynb)**
     - [EXTRA: arquivos](aula_03/aula03_EXTRA_arquivos.ipynb)
-- **23/07 - [AULA 4](aula_04/): SLIDES, [NOTEBOOK GUIADO](aula_04/aula04_notebook_guiado.ipynb), [EXERCÍCIOS](aula_04/aula04_exercicios.ipynb), [GABARITO](aula_04/aula04_gabarito.ipynb)**
-    - **[EXTRA: Exercícios em Altair](aula_04/aula04_EXTRA_exercicios.ipynb)**
-- **24/07 - [AULA 5](aula_05/): [MINI PROJETO](aula_05/projeto_biomedicina.ipynb)**
+- **23/07 - AULA 4: REVISÂO, MINI PROJETO**
+- **24/07 - [AULA 5](aula_05/): SLIDES, [NOTEBOOK GUIADO](aula_05/aula05_notebook_guiado.ipynb), [EXERCÍCIOS](aula_05/aula05_exercicios.ipynb), [GABARITO](aula_05/aula05_gabarito.ipynb)**
+    - **[EXTRA: Exercícios em Altair](aula_05/aula05_EXTRA_exercicios.ipynb)**
 
 #### SEMANA 2:
-- **27/07 - AULA 6: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
+- **27/07 - AULA 6: NOTEBOOK GUIADO, [MINI PROJETO]()**
 - **28/07 - AULA 7: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
 - **29/07 - AULA 8: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
 - **30/07 - AULA 9: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
