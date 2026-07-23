@@ -1,0 +1,7 @@
+id,nome,sistolica,diastolica,spo2,glicemia
+P001,Ana Silva,118,76,98,92
+P002,Carlos Souza,145,92,95,140
+P003,Mariana Lima,124,78,91,65
+P004,João Pedro,135,88,97,210
+P005,Beatriz Alves,150,95,89,105
+P006,Fernando Dias,115,75,99,88
