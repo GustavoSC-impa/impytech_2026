@@ -1,0 +1,8 @@
+id_amostra,sequencia
+Amostra_01,ATGCGATCGATCG
+Amostra_02,ATGNATATATA
+Amostra_03,GCGCGCGCGC
+Amostra_04,ATGCATGCATN
+Amostra_05,ATGCATGCATGC
+Amostra_06,CGTNAATCG
+Amostra_07,TACGATCGATCG
