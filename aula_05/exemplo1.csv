@@ -1,21 +1,1001 @@
 Pacientes,Estado,Cidade,Idade,Temperatura Corporal
-Ana Souza,RJ,Rio de Janeiro,24,36.6
-Bruno Lima,SP,São Paulo,42,38.1
-Carla Mendes,MG,Belo Horizonte,31,37.2
-Diego Alves,BA,Salvador,15,36.8
-Eduarda Rocha,PE,Recife,55,38.5
-Felipe Costa,CE,Fortaleza,28,36.9
-Gabriela Silva,RJ,Niterói,34,37.6
-Henrique Santos,PR,Curitiba,47,37.0
-Isabela Martins,SC,Florianópolis,22,36.4
-João Pedro,RS,Porto Alegre,39,37.9
-Karen Oliveira,GO,Goiânia,51,38.3
-Lucas Ferreira,AM,Manaus,19,36.7
-Mariana Gomes,PB,João Pessoa,44,37.4
-Nathan Ribeiro,ES,Vitória,63,36.5
-Olívia Barros,RN,Natal,27,37.1
-Paulo Henrique,AL,Maceió,58,39.2
-Quezia Nunes,SE,Aracaju,33,36.9
-Rafael Castro,PI,Teresina,40,37.8
-Sofia Duarte,MA,São Luís,29,36.8
-Thiago Moraes,DF,Brasília,36,37.3
+Ana Souza_1,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_2,SP,São Paulo,42,38.1
+Carla Mendes_3,MG,Belo Horizonte,31,37.2
+Diego Alves_4,BA,Salvador,15,36.8
+Eduarda Rocha_5,PE,Recife,55,38.5
+Felipe Costa_6,CE,Fortaleza,28,36.9
+Gabriela Silva_7,RJ,Niterói,34,37.6
+Henrique Santos_8,PR,Curitiba,47,37.0
+Isabela Martins_9,SC,Florianópolis,22,36.4
+João Pedro_10,RS,Porto Alegre,39,37.9
+Karen Oliveira_11,GO,Goiânia,51,38.3
+Lucas Ferreira_12,AM,Manaus,19,36.7
+Mariana Gomes_13,PB,João Pessoa,44,37.4
+Nathan Ribeiro_14,ES,Vitória,63,36.5
+Olívia Barros_15,RN,Natal,27,37.1
+Paulo Henrique_16,AL,Maceió,58,39.2
+Quezia Nunes_17,SE,Aracaju,33,36.9
+Rafael Castro_18,PI,Teresina,40,37.8
+Sofia Duarte_19,MA,São Luís,29,36.8
+Thiago Moraes_20,DF,Brasília,36,37.3
+Ana Souza_21,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_22,SP,São Paulo,42,38.1
+Carla Mendes_23,MG,Belo Horizonte,31,37.2
+Diego Alves_24,BA,Salvador,15,36.8
+Eduarda Rocha_25,PE,Recife,55,38.5
+Felipe Costa_26,CE,Fortaleza,28,36.9
+Gabriela Silva_27,RJ,Niterói,34,37.6
+Henrique Santos_28,PR,Curitiba,47,37.0
+Isabela Martins_29,SC,Florianópolis,22,36.4
+João Pedro_30,RS,Porto Alegre,39,37.9
+Karen Oliveira_31,GO,Goiânia,51,38.3
+Lucas Ferreira_32,AM,Manaus,19,36.7
+Mariana Gomes_33,PB,João Pessoa,44,37.4
+Nathan Ribeiro_34,ES,Vitória,63,36.5
+Olívia Barros_35,RN,Natal,27,37.1
+Paulo Henrique_36,AL,Maceió,58,39.2
+Quezia Nunes_37,SE,Aracaju,33,36.9
+Rafael Castro_38,PI,Teresina,40,37.8
+Sofia Duarte_39,MA,São Luís,29,36.8
+Thiago Moraes_40,DF,Brasília,36,37.3
+Ana Souza_41,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_42,SP,São Paulo,42,38.1
+Carla Mendes_43,MG,Belo Horizonte,31,37.2
+Diego Alves_44,BA,Salvador,15,36.8
+Eduarda Rocha_45,PE,Recife,55,38.5
+Felipe Costa_46,CE,Fortaleza,28,36.9
+Gabriela Silva_47,RJ,Niterói,34,37.6
+Henrique Santos_48,PR,Curitiba,47,37.0
+Isabela Martins_49,SC,Florianópolis,22,36.4
+João Pedro_50,RS,Porto Alegre,39,37.9
+Karen Oliveira_51,GO,Goiânia,51,38.3
+Lucas Ferreira_52,AM,Manaus,19,36.7
+Mariana Gomes_53,PB,João Pessoa,44,37.4
+Nathan Ribeiro_54,ES,Vitória,63,36.5
+Olívia Barros_55,RN,Natal,27,37.1
+Paulo Henrique_56,AL,Maceió,58,39.2
+Quezia Nunes_57,SE,Aracaju,33,36.9
+Rafael Castro_58,PI,Teresina,40,37.8
+Sofia Duarte_59,MA,São Luís,29,36.8
+Thiago Moraes_60,DF,Brasília,36,37.3
+Ana Souza_61,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_62,SP,São Paulo,42,38.1
+Carla Mendes_63,MG,Belo Horizonte,31,37.2
+Diego Alves_64,BA,Salvador,15,36.8
+Eduarda Rocha_65,PE,Recife,55,38.5
+Felipe Costa_66,CE,Fortaleza,28,36.9
+Gabriela Silva_67,RJ,Niterói,34,37.6
+Henrique Santos_68,PR,Curitiba,47,37.0
+Isabela Martins_69,SC,Florianópolis,22,36.4
+João Pedro_70,RS,Porto Alegre,39,37.9
+Karen Oliveira_71,GO,Goiânia,51,38.3
+Lucas Ferreira_72,AM,Manaus,19,36.7
+Mariana Gomes_73,PB,João Pessoa,44,37.4
+Nathan Ribeiro_74,ES,Vitória,63,36.5
+Olívia Barros_75,RN,Natal,27,37.1
+Paulo Henrique_76,AL,Maceió,58,39.2
+Quezia Nunes_77,SE,Aracaju,33,36.9
+Rafael Castro_78,PI,Teresina,40,37.8
+Sofia Duarte_79,MA,São Luís,29,36.8
+Thiago Moraes_80,DF,Brasília,36,37.3
+Ana Souza_81,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_82,SP,São Paulo,42,38.1
+Carla Mendes_83,MG,Belo Horizonte,31,37.2
+Diego Alves_84,BA,Salvador,15,36.8
+Eduarda Rocha_85,PE,Recife,55,38.5
+Felipe Costa_86,CE,Fortaleza,28,36.9
+Gabriela Silva_87,RJ,Niterói,34,37.6
+Henrique Santos_88,PR,Curitiba,47,37.0
+Isabela Martins_89,SC,Florianópolis,22,36.4
+João Pedro_90,RS,Porto Alegre,39,37.9
+Karen Oliveira_91,GO,Goiânia,51,38.3
+Lucas Ferreira_92,AM,Manaus,19,36.7
+Mariana Gomes_93,PB,João Pessoa,44,37.4
+Nathan Ribeiro_94,ES,Vitória,63,36.5
+Olívia Barros_95,RN,Natal,27,37.1
+Paulo Henrique_96,AL,Maceió,58,39.2
+Quezia Nunes_97,SE,Aracaju,33,36.9
+Rafael Castro_98,PI,Teresina,40,37.8
+Sofia Duarte_99,MA,São Luís,29,36.8
+Thiago Moraes_100,DF,Brasília,36,37.3
+Ana Souza_101,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_102,SP,São Paulo,42,38.1
+Carla Mendes_103,MG,Belo Horizonte,31,37.2
+Diego Alves_104,BA,Salvador,15,36.8
+Eduarda Rocha_105,PE,Recife,55,38.5
+Felipe Costa_106,CE,Fortaleza,28,36.9
+Gabriela Silva_107,RJ,Niterói,34,37.6
+Henrique Santos_108,PR,Curitiba,47,37.0
+Isabela Martins_109,SC,Florianópolis,22,36.4
+João Pedro_110,RS,Porto Alegre,39,37.9
+Karen Oliveira_111,GO,Goiânia,51,38.3
+Lucas Ferreira_112,AM,Manaus,19,36.7
+Mariana Gomes_113,PB,João Pessoa,44,37.4
+Nathan Ribeiro_114,ES,Vitória,63,36.5
+Olívia Barros_115,RN,Natal,27,37.1
+Paulo Henrique_116,AL,Maceió,58,39.2
+Quezia Nunes_117,SE,Aracaju,33,36.9
+Rafael Castro_118,PI,Teresina,40,37.8
+Sofia Duarte_119,MA,São Luís,29,36.8
+Thiago Moraes_120,DF,Brasília,36,37.3
+Ana Souza_121,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_122,SP,São Paulo,42,38.1
+Carla Mendes_123,MG,Belo Horizonte,31,37.2
+Diego Alves_124,BA,Salvador,15,36.8
+Eduarda Rocha_125,PE,Recife,55,38.5
+Felipe Costa_126,CE,Fortaleza,28,36.9
+Gabriela Silva_127,RJ,Niterói,34,37.6
+Henrique Santos_128,PR,Curitiba,47,37.0
+Isabela Martins_129,SC,Florianópolis,22,36.4
+João Pedro_130,RS,Porto Alegre,39,37.9
+Karen Oliveira_131,GO,Goiânia,51,38.3
+Lucas Ferreira_132,AM,Manaus,19,36.7
+Mariana Gomes_133,PB,João Pessoa,44,37.4
+Nathan Ribeiro_134,ES,Vitória,63,36.5
+Olívia Barros_135,RN,Natal,27,37.1
+Paulo Henrique_136,AL,Maceió,58,39.2
+Quezia Nunes_137,SE,Aracaju,33,36.9
+Rafael Castro_138,PI,Teresina,40,37.8
+Sofia Duarte_139,MA,São Luís,29,36.8
+Thiago Moraes_140,DF,Brasília,36,37.3
+Ana Souza_141,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_142,SP,São Paulo,42,38.1
+Carla Mendes_143,MG,Belo Horizonte,31,37.2
+Diego Alves_144,BA,Salvador,15,36.8
+Eduarda Rocha_145,PE,Recife,55,38.5
+Felipe Costa_146,CE,Fortaleza,28,36.9
+Gabriela Silva_147,RJ,Niterói,34,37.6
+Henrique Santos_148,PR,Curitiba,47,37.0
+Isabela Martins_149,SC,Florianópolis,22,36.4
+João Pedro_150,RS,Porto Alegre,39,37.9
+Karen Oliveira_151,GO,Goiânia,51,38.3
+Lucas Ferreira_152,AM,Manaus,19,36.7
+Mariana Gomes_153,PB,João Pessoa,44,37.4
+Nathan Ribeiro_154,ES,Vitória,63,36.5
+Olívia Barros_155,RN,Natal,27,37.1
+Paulo Henrique_156,AL,Maceió,58,39.2
+Quezia Nunes_157,SE,Aracaju,33,36.9
+Rafael Castro_158,PI,Teresina,40,37.8
+Sofia Duarte_159,MA,São Luís,29,36.8
+Thiago Moraes_160,DF,Brasília,36,37.3
+Ana Souza_161,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_162,SP,São Paulo,42,38.1
+Carla Mendes_163,MG,Belo Horizonte,31,37.2
+Diego Alves_164,BA,Salvador,15,36.8
+Eduarda Rocha_165,PE,Recife,55,38.5
+Felipe Costa_166,CE,Fortaleza,28,36.9
+Gabriela Silva_167,RJ,Niterói,34,37.6
+Henrique Santos_168,PR,Curitiba,47,37.0
+Isabela Martins_169,SC,Florianópolis,22,36.4
+João Pedro_170,RS,Porto Alegre,39,37.9
+Karen Oliveira_171,GO,Goiânia,51,38.3
+Lucas Ferreira_172,AM,Manaus,19,36.7
+Mariana Gomes_173,PB,João Pessoa,44,37.4
+Nathan Ribeiro_174,ES,Vitória,63,36.5
+Olívia Barros_175,RN,Natal,27,37.1
+Paulo Henrique_176,AL,Maceió,58,39.2
+Quezia Nunes_177,SE,Aracaju,33,36.9
+Rafael Castro_178,PI,Teresina,40,37.8
+Sofia Duarte_179,MA,São Luís,29,36.8
+Thiago Moraes_180,DF,Brasília,36,37.3
+Ana Souza_181,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_182,SP,São Paulo,42,38.1
+Carla Mendes_183,MG,Belo Horizonte,31,37.2
+Diego Alves_184,BA,Salvador,15,36.8
+Eduarda Rocha_185,PE,Recife,55,38.5
+Felipe Costa_186,CE,Fortaleza,28,36.9
+Gabriela Silva_187,RJ,Niterói,34,37.6
+Henrique Santos_188,PR,Curitiba,47,37.0
+Isabela Martins_189,SC,Florianópolis,22,36.4
+João Pedro_190,RS,Porto Alegre,39,37.9
+Karen Oliveira_191,GO,Goiânia,51,38.3
+Lucas Ferreira_192,AM,Manaus,19,36.7
+Mariana Gomes_193,PB,João Pessoa,44,37.4
+Nathan Ribeiro_194,ES,Vitória,63,36.5
+Olívia Barros_195,RN,Natal,27,37.1
+Paulo Henrique_196,AL,Maceió,58,39.2
+Quezia Nunes_197,SE,Aracaju,33,36.9
+Rafael Castro_198,PI,Teresina,40,37.8
+Sofia Duarte_199,MA,São Luís,29,36.8
+Thiago Moraes_200,DF,Brasília,36,37.3
+Ana Souza_201,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_202,SP,São Paulo,42,38.1
+Carla Mendes_203,MG,Belo Horizonte,31,37.2
+Diego Alves_204,BA,Salvador,15,36.8
+Eduarda Rocha_205,PE,Recife,55,38.5
+Felipe Costa_206,CE,Fortaleza,28,36.9
+Gabriela Silva_207,RJ,Niterói,34,37.6
+Henrique Santos_208,PR,Curitiba,47,37.0
+Isabela Martins_209,SC,Florianópolis,22,36.4
+João Pedro_210,RS,Porto Alegre,39,37.9
+Karen Oliveira_211,GO,Goiânia,51,38.3
+Lucas Ferreira_212,AM,Manaus,19,36.7
+Mariana Gomes_213,PB,João Pessoa,44,37.4
+Nathan Ribeiro_214,ES,Vitória,63,36.5
+Olívia Barros_215,RN,Natal,27,37.1
+Paulo Henrique_216,AL,Maceió,58,39.2
+Quezia Nunes_217,SE,Aracaju,33,36.9
+Rafael Castro_218,PI,Teresina,40,37.8
+Sofia Duarte_219,MA,São Luís,29,36.8
+Thiago Moraes_220,DF,Brasília,36,37.3
+Ana Souza_221,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_222,SP,São Paulo,42,38.1
+Carla Mendes_223,MG,Belo Horizonte,31,37.2
+Diego Alves_224,BA,Salvador,15,36.8
+Eduarda Rocha_225,PE,Recife,55,38.5
+Felipe Costa_226,CE,Fortaleza,28,36.9
+Gabriela Silva_227,RJ,Niterói,34,37.6
+Henrique Santos_228,PR,Curitiba,47,37.0
+Isabela Martins_229,SC,Florianópolis,22,36.4
+João Pedro_230,RS,Porto Alegre,39,37.9
+Karen Oliveira_231,GO,Goiânia,51,38.3
+Lucas Ferreira_232,AM,Manaus,19,36.7
+Mariana Gomes_233,PB,João Pessoa,44,37.4
+Nathan Ribeiro_234,ES,Vitória,63,36.5
+Olívia Barros_235,RN,Natal,27,37.1
+Paulo Henrique_236,AL,Maceió,58,39.2
+Quezia Nunes_237,SE,Aracaju,33,36.9
+Rafael Castro_238,PI,Teresina,40,37.8
+Sofia Duarte_239,MA,São Luís,29,36.8
+Thiago Moraes_240,DF,Brasília,36,37.3
+Ana Souza_241,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_242,SP,São Paulo,42,38.1
+Carla Mendes_243,MG,Belo Horizonte,31,37.2
+Diego Alves_244,BA,Salvador,15,36.8
+Eduarda Rocha_245,PE,Recife,55,38.5
+Felipe Costa_246,CE,Fortaleza,28,36.9
+Gabriela Silva_247,RJ,Niterói,34,37.6
+Henrique Santos_248,PR,Curitiba,47,37.0
+Isabela Martins_249,SC,Florianópolis,22,36.4
+João Pedro_250,RS,Porto Alegre,39,37.9
+Karen Oliveira_251,GO,Goiânia,51,38.3
+Lucas Ferreira_252,AM,Manaus,19,36.7
+Mariana Gomes_253,PB,João Pessoa,44,37.4
+Nathan Ribeiro_254,ES,Vitória,63,36.5
+Olívia Barros_255,RN,Natal,27,37.1
+Paulo Henrique_256,AL,Maceió,58,39.2
+Quezia Nunes_257,SE,Aracaju,33,36.9
+Rafael Castro_258,PI,Teresina,40,37.8
+Sofia Duarte_259,MA,São Luís,29,36.8
+Thiago Moraes_260,DF,Brasília,36,37.3
+Ana Souza_261,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_262,SP,São Paulo,42,38.1
+Carla Mendes_263,MG,Belo Horizonte,31,37.2
+Diego Alves_264,BA,Salvador,15,36.8
+Eduarda Rocha_265,PE,Recife,55,38.5
+Felipe Costa_266,CE,Fortaleza,28,36.9
+Gabriela Silva_267,RJ,Niterói,34,37.6
+Henrique Santos_268,PR,Curitiba,47,37.0
+Isabela Martins_269,SC,Florianópolis,22,36.4
+João Pedro_270,RS,Porto Alegre,39,37.9
+Karen Oliveira_271,GO,Goiânia,51,38.3
+Lucas Ferreira_272,AM,Manaus,19,36.7
+Mariana Gomes_273,PB,João Pessoa,44,37.4
+Nathan Ribeiro_274,ES,Vitória,63,36.5
+Olívia Barros_275,RN,Natal,27,37.1
+Paulo Henrique_276,AL,Maceió,58,39.2
+Quezia Nunes_277,SE,Aracaju,33,36.9
+Rafael Castro_278,PI,Teresina,40,37.8
+Sofia Duarte_279,MA,São Luís,29,36.8
+Thiago Moraes_280,DF,Brasília,36,37.3
+Ana Souza_281,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_282,SP,São Paulo,42,38.1
+Carla Mendes_283,MG,Belo Horizonte,31,37.2
+Diego Alves_284,BA,Salvador,15,36.8
+Eduarda Rocha_285,PE,Recife,55,38.5
+Felipe Costa_286,CE,Fortaleza,28,36.9
+Gabriela Silva_287,RJ,Niterói,34,37.6
+Henrique Santos_288,PR,Curitiba,47,37.0
+Isabela Martins_289,SC,Florianópolis,22,36.4
+João Pedro_290,RS,Porto Alegre,39,37.9
+Karen Oliveira_291,GO,Goiânia,51,38.3
+Lucas Ferreira_292,AM,Manaus,19,36.7
+Mariana Gomes_293,PB,João Pessoa,44,37.4
+Nathan Ribeiro_294,ES,Vitória,63,36.5
+Olívia Barros_295,RN,Natal,27,37.1
+Paulo Henrique_296,AL,Maceió,58,39.2
+Quezia Nunes_297,SE,Aracaju,33,36.9
+Rafael Castro_298,PI,Teresina,40,37.8
+Sofia Duarte_299,MA,São Luís,29,36.8
+Thiago Moraes_300,DF,Brasília,36,37.3
+Ana Souza_301,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_302,SP,São Paulo,42,38.1
+Carla Mendes_303,MG,Belo Horizonte,31,37.2
+Diego Alves_304,BA,Salvador,15,36.8
+Eduarda Rocha_305,PE,Recife,55,38.5
+Felipe Costa_306,CE,Fortaleza,28,36.9
+Gabriela Silva_307,RJ,Niterói,34,37.6
+Henrique Santos_308,PR,Curitiba,47,37.0
+Isabela Martins_309,SC,Florianópolis,22,36.4
+João Pedro_310,RS,Porto Alegre,39,37.9
+Karen Oliveira_311,GO,Goiânia,51,38.3
+Lucas Ferreira_312,AM,Manaus,19,36.7
+Mariana Gomes_313,PB,João Pessoa,44,37.4
+Nathan Ribeiro_314,ES,Vitória,63,36.5
+Olívia Barros_315,RN,Natal,27,37.1
+Paulo Henrique_316,AL,Maceió,58,39.2
+Quezia Nunes_317,SE,Aracaju,33,36.9
+Rafael Castro_318,PI,Teresina,40,37.8
+Sofia Duarte_319,MA,São Luís,29,36.8
+Thiago Moraes_320,DF,Brasília,36,37.3
+Ana Souza_321,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_322,SP,São Paulo,42,38.1
+Carla Mendes_323,MG,Belo Horizonte,31,37.2
+Diego Alves_324,BA,Salvador,15,36.8
+Eduarda Rocha_325,PE,Recife,55,38.5
+Felipe Costa_326,CE,Fortaleza,28,36.9
+Gabriela Silva_327,RJ,Niterói,34,37.6
+Henrique Santos_328,PR,Curitiba,47,37.0
+Isabela Martins_329,SC,Florianópolis,22,36.4
+João Pedro_330,RS,Porto Alegre,39,37.9
+Karen Oliveira_331,GO,Goiânia,51,38.3
+Lucas Ferreira_332,AM,Manaus,19,36.7
+Mariana Gomes_333,PB,João Pessoa,44,37.4
+Nathan Ribeiro_334,ES,Vitória,63,36.5
+Olívia Barros_335,RN,Natal,27,37.1
+Paulo Henrique_336,AL,Maceió,58,39.2
+Quezia Nunes_337,SE,Aracaju,33,36.9
+Rafael Castro_338,PI,Teresina,40,37.8
+Sofia Duarte_339,MA,São Luís,29,36.8
+Thiago Moraes_340,DF,Brasília,36,37.3
+Ana Souza_341,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_342,SP,São Paulo,42,38.1
+Carla Mendes_343,MG,Belo Horizonte,31,37.2
+Diego Alves_344,BA,Salvador,15,36.8
+Eduarda Rocha_345,PE,Recife,55,38.5
+Felipe Costa_346,CE,Fortaleza,28,36.9
+Gabriela Silva_347,RJ,Niterói,34,37.6
+Henrique Santos_348,PR,Curitiba,47,37.0
+Isabela Martins_349,SC,Florianópolis,22,36.4
+João Pedro_350,RS,Porto Alegre,39,37.9
+Karen Oliveira_351,GO,Goiânia,51,38.3
+Lucas Ferreira_352,AM,Manaus,19,36.7
+Mariana Gomes_353,PB,João Pessoa,44,37.4
+Nathan Ribeiro_354,ES,Vitória,63,36.5
+Olívia Barros_355,RN,Natal,27,37.1
+Paulo Henrique_356,AL,Maceió,58,39.2
+Quezia Nunes_357,SE,Aracaju,33,36.9
+Rafael Castro_358,PI,Teresina,40,37.8
+Sofia Duarte_359,MA,São Luís,29,36.8
+Thiago Moraes_360,DF,Brasília,36,37.3
+Ana Souza_361,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_362,SP,São Paulo,42,38.1
+Carla Mendes_363,MG,Belo Horizonte,31,37.2
+Diego Alves_364,BA,Salvador,15,36.8
+Eduarda Rocha_365,PE,Recife,55,38.5
+Felipe Costa_366,CE,Fortaleza,28,36.9
+Gabriela Silva_367,RJ,Niterói,34,37.6
+Henrique Santos_368,PR,Curitiba,47,37.0
+Isabela Martins_369,SC,Florianópolis,22,36.4
+João Pedro_370,RS,Porto Alegre,39,37.9
+Karen Oliveira_371,GO,Goiânia,51,38.3
+Lucas Ferreira_372,AM,Manaus,19,36.7
+Mariana Gomes_373,PB,João Pessoa,44,37.4
+Nathan Ribeiro_374,ES,Vitória,63,36.5
+Olívia Barros_375,RN,Natal,27,37.1
+Paulo Henrique_376,AL,Maceió,58,39.2
+Quezia Nunes_377,SE,Aracaju,33,36.9
+Rafael Castro_378,PI,Teresina,40,37.8
+Sofia Duarte_379,MA,São Luís,29,36.8
+Thiago Moraes_380,DF,Brasília,36,37.3
+Ana Souza_381,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_382,SP,São Paulo,42,38.1
+Carla Mendes_383,MG,Belo Horizonte,31,37.2
+Diego Alves_384,BA,Salvador,15,36.8
+Eduarda Rocha_385,PE,Recife,55,38.5
+Felipe Costa_386,CE,Fortaleza,28,36.9
+Gabriela Silva_387,RJ,Niterói,34,37.6
+Henrique Santos_388,PR,Curitiba,47,37.0
+Isabela Martins_389,SC,Florianópolis,22,36.4
+João Pedro_390,RS,Porto Alegre,39,37.9
+Karen Oliveira_391,GO,Goiânia,51,38.3
+Lucas Ferreira_392,AM,Manaus,19,36.7
+Mariana Gomes_393,PB,João Pessoa,44,37.4
+Nathan Ribeiro_394,ES,Vitória,63,36.5
+Olívia Barros_395,RN,Natal,27,37.1
+Paulo Henrique_396,AL,Maceió,58,39.2
+Quezia Nunes_397,SE,Aracaju,33,36.9
+Rafael Castro_398,PI,Teresina,40,37.8
+Sofia Duarte_399,MA,São Luís,29,36.8
+Thiago Moraes_400,DF,Brasília,36,37.3
+Ana Souza_401,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_402,SP,São Paulo,42,38.1
+Carla Mendes_403,MG,Belo Horizonte,31,37.2
+Diego Alves_404,BA,Salvador,15,36.8
+Eduarda Rocha_405,PE,Recife,55,38.5
+Felipe Costa_406,CE,Fortaleza,28,36.9
+Gabriela Silva_407,RJ,Niterói,34,37.6
+Henrique Santos_408,PR,Curitiba,47,37.0
+Isabela Martins_409,SC,Florianópolis,22,36.4
+João Pedro_410,RS,Porto Alegre,39,37.9
+Karen Oliveira_411,GO,Goiânia,51,38.3
+Lucas Ferreira_412,AM,Manaus,19,36.7
+Mariana Gomes_413,PB,João Pessoa,44,37.4
+Nathan Ribeiro_414,ES,Vitória,63,36.5
+Olívia Barros_415,RN,Natal,27,37.1
+Paulo Henrique_416,AL,Maceió,58,39.2
+Quezia Nunes_417,SE,Aracaju,33,36.9
+Rafael Castro_418,PI,Teresina,40,37.8
+Sofia Duarte_419,MA,São Luís,29,36.8
+Thiago Moraes_420,DF,Brasília,36,37.3
+Ana Souza_421,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_422,SP,São Paulo,42,38.1
+Carla Mendes_423,MG,Belo Horizonte,31,37.2
+Diego Alves_424,BA,Salvador,15,36.8
+Eduarda Rocha_425,PE,Recife,55,38.5
+Felipe Costa_426,CE,Fortaleza,28,36.9
+Gabriela Silva_427,RJ,Niterói,34,37.6
+Henrique Santos_428,PR,Curitiba,47,37.0
+Isabela Martins_429,SC,Florianópolis,22,36.4
+João Pedro_430,RS,Porto Alegre,39,37.9
+Karen Oliveira_431,GO,Goiânia,51,38.3
+Lucas Ferreira_432,AM,Manaus,19,36.7
+Mariana Gomes_433,PB,João Pessoa,44,37.4
+Nathan Ribeiro_434,ES,Vitória,63,36.5
+Olívia Barros_435,RN,Natal,27,37.1
+Paulo Henrique_436,AL,Maceió,58,39.2
+Quezia Nunes_437,SE,Aracaju,33,36.9
+Rafael Castro_438,PI,Teresina,40,37.8
+Sofia Duarte_439,MA,São Luís,29,36.8
+Thiago Moraes_440,DF,Brasília,36,37.3
+Ana Souza_441,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_442,SP,São Paulo,42,38.1
+Carla Mendes_443,MG,Belo Horizonte,31,37.2
+Diego Alves_444,BA,Salvador,15,36.8
+Eduarda Rocha_445,PE,Recife,55,38.5
+Felipe Costa_446,CE,Fortaleza,28,36.9
+Gabriela Silva_447,RJ,Niterói,34,37.6
+Henrique Santos_448,PR,Curitiba,47,37.0
+Isabela Martins_449,SC,Florianópolis,22,36.4
+João Pedro_450,RS,Porto Alegre,39,37.9
+Karen Oliveira_451,GO,Goiânia,51,38.3
+Lucas Ferreira_452,AM,Manaus,19,36.7
+Mariana Gomes_453,PB,João Pessoa,44,37.4
+Nathan Ribeiro_454,ES,Vitória,63,36.5
+Olívia Barros_455,RN,Natal,27,37.1
+Paulo Henrique_456,AL,Maceió,58,39.2
+Quezia Nunes_457,SE,Aracaju,33,36.9
+Rafael Castro_458,PI,Teresina,40,37.8
+Sofia Duarte_459,MA,São Luís,29,36.8
+Thiago Moraes_460,DF,Brasília,36,37.3
+Ana Souza_461,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_462,SP,São Paulo,42,38.1
+Carla Mendes_463,MG,Belo Horizonte,31,37.2
+Diego Alves_464,BA,Salvador,15,36.8
+Eduarda Rocha_465,PE,Recife,55,38.5
+Felipe Costa_466,CE,Fortaleza,28,36.9
+Gabriela Silva_467,RJ,Niterói,34,37.6
+Henrique Santos_468,PR,Curitiba,47,37.0
+Isabela Martins_469,SC,Florianópolis,22,36.4
+João Pedro_470,RS,Porto Alegre,39,37.9
+Karen Oliveira_471,GO,Goiânia,51,38.3
+Lucas Ferreira_472,AM,Manaus,19,36.7
+Mariana Gomes_473,PB,João Pessoa,44,37.4
+Nathan Ribeiro_474,ES,Vitória,63,36.5
+Olívia Barros_475,RN,Natal,27,37.1
+Paulo Henrique_476,AL,Maceió,58,39.2
+Quezia Nunes_477,SE,Aracaju,33,36.9
+Rafael Castro_478,PI,Teresina,40,37.8
+Sofia Duarte_479,MA,São Luís,29,36.8
+Thiago Moraes_480,DF,Brasília,36,37.3
+Ana Souza_481,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_482,SP,São Paulo,42,38.1
+Carla Mendes_483,MG,Belo Horizonte,31,37.2
+Diego Alves_484,BA,Salvador,15,36.8
+Eduarda Rocha_485,PE,Recife,55,38.5
+Felipe Costa_486,CE,Fortaleza,28,36.9
+Gabriela Silva_487,RJ,Niterói,34,37.6
+Henrique Santos_488,PR,Curitiba,47,37.0
+Isabela Martins_489,SC,Florianópolis,22,36.4
+João Pedro_490,RS,Porto Alegre,39,37.9
+Karen Oliveira_491,GO,Goiânia,51,38.3
+Lucas Ferreira_492,AM,Manaus,19,36.7
+Mariana Gomes_493,PB,João Pessoa,44,37.4
+Nathan Ribeiro_494,ES,Vitória,63,36.5
+Olívia Barros_495,RN,Natal,27,37.1
+Paulo Henrique_496,AL,Maceió,58,39.2
+Quezia Nunes_497,SE,Aracaju,33,36.9
+Rafael Castro_498,PI,Teresina,40,37.8
+Sofia Duarte_499,MA,São Luís,29,36.8
+Thiago Moraes_500,DF,Brasília,36,37.3
+Ana Souza_501,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_502,SP,São Paulo,42,38.1
+Carla Mendes_503,MG,Belo Horizonte,31,37.2
+Diego Alves_504,BA,Salvador,15,36.8
+Eduarda Rocha_505,PE,Recife,55,38.5
+Felipe Costa_506,CE,Fortaleza,28,36.9
+Gabriela Silva_507,RJ,Niterói,34,37.6
+Henrique Santos_508,PR,Curitiba,47,37.0
+Isabela Martins_509,SC,Florianópolis,22,36.4
+João Pedro_510,RS,Porto Alegre,39,37.9
+Karen Oliveira_511,GO,Goiânia,51,38.3
+Lucas Ferreira_512,AM,Manaus,19,36.7
+Mariana Gomes_513,PB,João Pessoa,44,37.4
+Nathan Ribeiro_514,ES,Vitória,63,36.5
+Olívia Barros_515,RN,Natal,27,37.1
+Paulo Henrique_516,AL,Maceió,58,39.2
+Quezia Nunes_517,SE,Aracaju,33,36.9
+Rafael Castro_518,PI,Teresina,40,37.8
+Sofia Duarte_519,MA,São Luís,29,36.8
+Thiago Moraes_520,DF,Brasília,36,37.3
+Ana Souza_521,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_522,SP,São Paulo,42,38.1
+Carla Mendes_523,MG,Belo Horizonte,31,37.2
+Diego Alves_524,BA,Salvador,15,36.8
+Eduarda Rocha_525,PE,Recife,55,38.5
+Felipe Costa_526,CE,Fortaleza,28,36.9
+Gabriela Silva_527,RJ,Niterói,34,37.6
+Henrique Santos_528,PR,Curitiba,47,37.0
+Isabela Martins_529,SC,Florianópolis,22,36.4
+João Pedro_530,RS,Porto Alegre,39,37.9
+Karen Oliveira_531,GO,Goiânia,51,38.3
+Lucas Ferreira_532,AM,Manaus,19,36.7
+Mariana Gomes_533,PB,João Pessoa,44,37.4
+Nathan Ribeiro_534,ES,Vitória,63,36.5
+Olívia Barros_535,RN,Natal,27,37.1
+Paulo Henrique_536,AL,Maceió,58,39.2
+Quezia Nunes_537,SE,Aracaju,33,36.9
+Rafael Castro_538,PI,Teresina,40,37.8
+Sofia Duarte_539,MA,São Luís,29,36.8
+Thiago Moraes_540,DF,Brasília,36,37.3
+Ana Souza_541,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_542,SP,São Paulo,42,38.1
+Carla Mendes_543,MG,Belo Horizonte,31,37.2
+Diego Alves_544,BA,Salvador,15,36.8
+Eduarda Rocha_545,PE,Recife,55,38.5
+Felipe Costa_546,CE,Fortaleza,28,36.9
+Gabriela Silva_547,RJ,Niterói,34,37.6
+Henrique Santos_548,PR,Curitiba,47,37.0
+Isabela Martins_549,SC,Florianópolis,22,36.4
+João Pedro_550,RS,Porto Alegre,39,37.9
+Karen Oliveira_551,GO,Goiânia,51,38.3
+Lucas Ferreira_552,AM,Manaus,19,36.7
+Mariana Gomes_553,PB,João Pessoa,44,37.4
+Nathan Ribeiro_554,ES,Vitória,63,36.5
+Olívia Barros_555,RN,Natal,27,37.1
+Paulo Henrique_556,AL,Maceió,58,39.2
+Quezia Nunes_557,SE,Aracaju,33,36.9
+Rafael Castro_558,PI,Teresina,40,37.8
+Sofia Duarte_559,MA,São Luís,29,36.8
+Thiago Moraes_560,DF,Brasília,36,37.3
+Ana Souza_561,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_562,SP,São Paulo,42,38.1
+Carla Mendes_563,MG,Belo Horizonte,31,37.2
+Diego Alves_564,BA,Salvador,15,36.8
+Eduarda Rocha_565,PE,Recife,55,38.5
+Felipe Costa_566,CE,Fortaleza,28,36.9
+Gabriela Silva_567,RJ,Niterói,34,37.6
+Henrique Santos_568,PR,Curitiba,47,37.0
+Isabela Martins_569,SC,Florianópolis,22,36.4
+João Pedro_570,RS,Porto Alegre,39,37.9
+Karen Oliveira_571,GO,Goiânia,51,38.3
+Lucas Ferreira_572,AM,Manaus,19,36.7
+Mariana Gomes_573,PB,João Pessoa,44,37.4
+Nathan Ribeiro_574,ES,Vitória,63,36.5
+Olívia Barros_575,RN,Natal,27,37.1
+Paulo Henrique_576,AL,Maceió,58,39.2
+Quezia Nunes_577,SE,Aracaju,33,36.9
+Rafael Castro_578,PI,Teresina,40,37.8
+Sofia Duarte_579,MA,São Luís,29,36.8
+Thiago Moraes_580,DF,Brasília,36,37.3
+Ana Souza_581,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_582,SP,São Paulo,42,38.1
+Carla Mendes_583,MG,Belo Horizonte,31,37.2
+Diego Alves_584,BA,Salvador,15,36.8
+Eduarda Rocha_585,PE,Recife,55,38.5
+Felipe Costa_586,CE,Fortaleza,28,36.9
+Gabriela Silva_587,RJ,Niterói,34,37.6
+Henrique Santos_588,PR,Curitiba,47,37.0
+Isabela Martins_589,SC,Florianópolis,22,36.4
+João Pedro_590,RS,Porto Alegre,39,37.9
+Karen Oliveira_591,GO,Goiânia,51,38.3
+Lucas Ferreira_592,AM,Manaus,19,36.7
+Mariana Gomes_593,PB,João Pessoa,44,37.4
+Nathan Ribeiro_594,ES,Vitória,63,36.5
+Olívia Barros_595,RN,Natal,27,37.1
+Paulo Henrique_596,AL,Maceió,58,39.2
+Quezia Nunes_597,SE,Aracaju,33,36.9
+Rafael Castro_598,PI,Teresina,40,37.8
+Sofia Duarte_599,MA,São Luís,29,36.8
+Thiago Moraes_600,DF,Brasília,36,37.3
+Ana Souza_601,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_602,SP,São Paulo,42,38.1
+Carla Mendes_603,MG,Belo Horizonte,31,37.2
+Diego Alves_604,BA,Salvador,15,36.8
+Eduarda Rocha_605,PE,Recife,55,38.5
+Felipe Costa_606,CE,Fortaleza,28,36.9
+Gabriela Silva_607,RJ,Niterói,34,37.6
+Henrique Santos_608,PR,Curitiba,47,37.0
+Isabela Martins_609,SC,Florianópolis,22,36.4
+João Pedro_610,RS,Porto Alegre,39,37.9
+Karen Oliveira_611,GO,Goiânia,51,38.3
+Lucas Ferreira_612,AM,Manaus,19,36.7
+Mariana Gomes_613,PB,João Pessoa,44,37.4
+Nathan Ribeiro_614,ES,Vitória,63,36.5
+Olívia Barros_615,RN,Natal,27,37.1
+Paulo Henrique_616,AL,Maceió,58,39.2
+Quezia Nunes_617,SE,Aracaju,33,36.9
+Rafael Castro_618,PI,Teresina,40,37.8
+Sofia Duarte_619,MA,São Luís,29,36.8
+Thiago Moraes_620,DF,Brasília,36,37.3
+Ana Souza_621,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_622,SP,São Paulo,42,38.1
+Carla Mendes_623,MG,Belo Horizonte,31,37.2
+Diego Alves_624,BA,Salvador,15,36.8
+Eduarda Rocha_625,PE,Recife,55,38.5
+Felipe Costa_626,CE,Fortaleza,28,36.9
+Gabriela Silva_627,RJ,Niterói,34,37.6
+Henrique Santos_628,PR,Curitiba,47,37.0
+Isabela Martins_629,SC,Florianópolis,22,36.4
+João Pedro_630,RS,Porto Alegre,39,37.9
+Karen Oliveira_631,GO,Goiânia,51,38.3
+Lucas Ferreira_632,AM,Manaus,19,36.7
+Mariana Gomes_633,PB,João Pessoa,44,37.4
+Nathan Ribeiro_634,ES,Vitória,63,36.5
+Olívia Barros_635,RN,Natal,27,37.1
+Paulo Henrique_636,AL,Maceió,58,39.2
+Quezia Nunes_637,SE,Aracaju,33,36.9
+Rafael Castro_638,PI,Teresina,40,37.8
+Sofia Duarte_639,MA,São Luís,29,36.8
+Thiago Moraes_640,DF,Brasília,36,37.3
+Ana Souza_641,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_642,SP,São Paulo,42,38.1
+Carla Mendes_643,MG,Belo Horizonte,31,37.2
+Diego Alves_644,BA,Salvador,15,36.8
+Eduarda Rocha_645,PE,Recife,55,38.5
+Felipe Costa_646,CE,Fortaleza,28,36.9
+Gabriela Silva_647,RJ,Niterói,34,37.6
+Henrique Santos_648,PR,Curitiba,47,37.0
+Isabela Martins_649,SC,Florianópolis,22,36.4
+João Pedro_650,RS,Porto Alegre,39,37.9
+Karen Oliveira_651,GO,Goiânia,51,38.3
+Lucas Ferreira_652,AM,Manaus,19,36.7
+Mariana Gomes_653,PB,João Pessoa,44,37.4
+Nathan Ribeiro_654,ES,Vitória,63,36.5
+Olívia Barros_655,RN,Natal,27,37.1
+Paulo Henrique_656,AL,Maceió,58,39.2
+Quezia Nunes_657,SE,Aracaju,33,36.9
+Rafael Castro_658,PI,Teresina,40,37.8
+Sofia Duarte_659,MA,São Luís,29,36.8
+Thiago Moraes_660,DF,Brasília,36,37.3
+Ana Souza_661,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_662,SP,São Paulo,42,38.1
+Carla Mendes_663,MG,Belo Horizonte,31,37.2
+Diego Alves_664,BA,Salvador,15,36.8
+Eduarda Rocha_665,PE,Recife,55,38.5
+Felipe Costa_666,CE,Fortaleza,28,36.9
+Gabriela Silva_667,RJ,Niterói,34,37.6
+Henrique Santos_668,PR,Curitiba,47,37.0
+Isabela Martins_669,SC,Florianópolis,22,36.4
+João Pedro_670,RS,Porto Alegre,39,37.9
+Karen Oliveira_671,GO,Goiânia,51,38.3
+Lucas Ferreira_672,AM,Manaus,19,36.7
+Mariana Gomes_673,PB,João Pessoa,44,37.4
+Nathan Ribeiro_674,ES,Vitória,63,36.5
+Olívia Barros_675,RN,Natal,27,37.1
+Paulo Henrique_676,AL,Maceió,58,39.2
+Quezia Nunes_677,SE,Aracaju,33,36.9
+Rafael Castro_678,PI,Teresina,40,37.8
+Sofia Duarte_679,MA,São Luís,29,36.8
+Thiago Moraes_680,DF,Brasília,36,37.3
+Ana Souza_681,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_682,SP,São Paulo,42,38.1
+Carla Mendes_683,MG,Belo Horizonte,31,37.2
+Diego Alves_684,BA,Salvador,15,36.8
+Eduarda Rocha_685,PE,Recife,55,38.5
+Felipe Costa_686,CE,Fortaleza,28,36.9
+Gabriela Silva_687,RJ,Niterói,34,37.6
+Henrique Santos_688,PR,Curitiba,47,37.0
+Isabela Martins_689,SC,Florianópolis,22,36.4
+João Pedro_690,RS,Porto Alegre,39,37.9
+Karen Oliveira_691,GO,Goiânia,51,38.3
+Lucas Ferreira_692,AM,Manaus,19,36.7
+Mariana Gomes_693,PB,João Pessoa,44,37.4
+Nathan Ribeiro_694,ES,Vitória,63,36.5
+Olívia Barros_695,RN,Natal,27,37.1
+Paulo Henrique_696,AL,Maceió,58,39.2
+Quezia Nunes_697,SE,Aracaju,33,36.9
+Rafael Castro_698,PI,Teresina,40,37.8
+Sofia Duarte_699,MA,São Luís,29,36.8
+Thiago Moraes_700,DF,Brasília,36,37.3
+Ana Souza_701,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_702,SP,São Paulo,42,38.1
+Carla Mendes_703,MG,Belo Horizonte,31,37.2
+Diego Alves_704,BA,Salvador,15,36.8
+Eduarda Rocha_705,PE,Recife,55,38.5
+Felipe Costa_706,CE,Fortaleza,28,36.9
+Gabriela Silva_707,RJ,Niterói,34,37.6
+Henrique Santos_708,PR,Curitiba,47,37.0
+Isabela Martins_709,SC,Florianópolis,22,36.4
+João Pedro_710,RS,Porto Alegre,39,37.9
+Karen Oliveira_711,GO,Goiânia,51,38.3
+Lucas Ferreira_712,AM,Manaus,19,36.7
+Mariana Gomes_713,PB,João Pessoa,44,37.4
+Nathan Ribeiro_714,ES,Vitória,63,36.5
+Olívia Barros_715,RN,Natal,27,37.1
+Paulo Henrique_716,AL,Maceió,58,39.2
+Quezia Nunes_717,SE,Aracaju,33,36.9
+Rafael Castro_718,PI,Teresina,40,37.8
+Sofia Duarte_719,MA,São Luís,29,36.8
+Thiago Moraes_720,DF,Brasília,36,37.3
+Ana Souza_721,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_722,SP,São Paulo,42,38.1
+Carla Mendes_723,MG,Belo Horizonte,31,37.2
+Diego Alves_724,BA,Salvador,15,36.8
+Eduarda Rocha_725,PE,Recife,55,38.5
+Felipe Costa_726,CE,Fortaleza,28,36.9
+Gabriela Silva_727,RJ,Niterói,34,37.6
+Henrique Santos_728,PR,Curitiba,47,37.0
+Isabela Martins_729,SC,Florianópolis,22,36.4
+João Pedro_730,RS,Porto Alegre,39,37.9
+Karen Oliveira_731,GO,Goiânia,51,38.3
+Lucas Ferreira_732,AM,Manaus,19,36.7
+Mariana Gomes_733,PB,João Pessoa,44,37.4
+Nathan Ribeiro_734,ES,Vitória,63,36.5
+Olívia Barros_735,RN,Natal,27,37.1
+Paulo Henrique_736,AL,Maceió,58,39.2
+Quezia Nunes_737,SE,Aracaju,33,36.9
+Rafael Castro_738,PI,Teresina,40,37.8
+Sofia Duarte_739,MA,São Luís,29,36.8
+Thiago Moraes_740,DF,Brasília,36,37.3
+Ana Souza_741,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_742,SP,São Paulo,42,38.1
+Carla Mendes_743,MG,Belo Horizonte,31,37.2
+Diego Alves_744,BA,Salvador,15,36.8
+Eduarda Rocha_745,PE,Recife,55,38.5
+Felipe Costa_746,CE,Fortaleza,28,36.9
+Gabriela Silva_747,RJ,Niterói,34,37.6
+Henrique Santos_748,PR,Curitiba,47,37.0
+Isabela Martins_749,SC,Florianópolis,22,36.4
+João Pedro_750,RS,Porto Alegre,39,37.9
+Karen Oliveira_751,GO,Goiânia,51,38.3
+Lucas Ferreira_752,AM,Manaus,19,36.7
+Mariana Gomes_753,PB,João Pessoa,44,37.4
+Nathan Ribeiro_754,ES,Vitória,63,36.5
+Olívia Barros_755,RN,Natal,27,37.1
+Paulo Henrique_756,AL,Maceió,58,39.2
+Quezia Nunes_757,SE,Aracaju,33,36.9
+Rafael Castro_758,PI,Teresina,40,37.8
+Sofia Duarte_759,MA,São Luís,29,36.8
+Thiago Moraes_760,DF,Brasília,36,37.3
+Ana Souza_761,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_762,SP,São Paulo,42,38.1
+Carla Mendes_763,MG,Belo Horizonte,31,37.2
+Diego Alves_764,BA,Salvador,15,36.8
+Eduarda Rocha_765,PE,Recife,55,38.5
+Felipe Costa_766,CE,Fortaleza,28,36.9
+Gabriela Silva_767,RJ,Niterói,34,37.6
+Henrique Santos_768,PR,Curitiba,47,37.0
+Isabela Martins_769,SC,Florianópolis,22,36.4
+João Pedro_770,RS,Porto Alegre,39,37.9
+Karen Oliveira_771,GO,Goiânia,51,38.3
+Lucas Ferreira_772,AM,Manaus,19,36.7
+Mariana Gomes_773,PB,João Pessoa,44,37.4
+Nathan Ribeiro_774,ES,Vitória,63,36.5
+Olívia Barros_775,RN,Natal,27,37.1
+Paulo Henrique_776,AL,Maceió,58,39.2
+Quezia Nunes_777,SE,Aracaju,33,36.9
+Rafael Castro_778,PI,Teresina,40,37.8
+Sofia Duarte_779,MA,São Luís,29,36.8
+Thiago Moraes_780,DF,Brasília,36,37.3
+Ana Souza_781,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_782,SP,São Paulo,42,38.1
+Carla Mendes_783,MG,Belo Horizonte,31,37.2
+Diego Alves_784,BA,Salvador,15,36.8
+Eduarda Rocha_785,PE,Recife,55,38.5
+Felipe Costa_786,CE,Fortaleza,28,36.9
+Gabriela Silva_787,RJ,Niterói,34,37.6
+Henrique Santos_788,PR,Curitiba,47,37.0
+Isabela Martins_789,SC,Florianópolis,22,36.4
+João Pedro_790,RS,Porto Alegre,39,37.9
+Karen Oliveira_791,GO,Goiânia,51,38.3
+Lucas Ferreira_792,AM,Manaus,19,36.7
+Mariana Gomes_793,PB,João Pessoa,44,37.4
+Nathan Ribeiro_794,ES,Vitória,63,36.5
+Olívia Barros_795,RN,Natal,27,37.1
+Paulo Henrique_796,AL,Maceió,58,39.2
+Quezia Nunes_797,SE,Aracaju,33,36.9
+Rafael Castro_798,PI,Teresina,40,37.8
+Sofia Duarte_799,MA,São Luís,29,36.8
+Thiago Moraes_800,DF,Brasília,36,37.3
+Ana Souza_801,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_802,SP,São Paulo,42,38.1
+Carla Mendes_803,MG,Belo Horizonte,31,37.2
+Diego Alves_804,BA,Salvador,15,36.8
+Eduarda Rocha_805,PE,Recife,55,38.5
+Felipe Costa_806,CE,Fortaleza,28,36.9
+Gabriela Silva_807,RJ,Niterói,34,37.6
+Henrique Santos_808,PR,Curitiba,47,37.0
+Isabela Martins_809,SC,Florianópolis,22,36.4
+João Pedro_810,RS,Porto Alegre,39,37.9
+Karen Oliveira_811,GO,Goiânia,51,38.3
+Lucas Ferreira_812,AM,Manaus,19,36.7
+Mariana Gomes_813,PB,João Pessoa,44,37.4
+Nathan Ribeiro_814,ES,Vitória,63,36.5
+Olívia Barros_815,RN,Natal,27,37.1
+Paulo Henrique_816,AL,Maceió,58,39.2
+Quezia Nunes_817,SE,Aracaju,33,36.9
+Rafael Castro_818,PI,Teresina,40,37.8
+Sofia Duarte_819,MA,São Luís,29,36.8
+Thiago Moraes_820,DF,Brasília,36,37.3
+Ana Souza_821,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_822,SP,São Paulo,42,38.1
+Carla Mendes_823,MG,Belo Horizonte,31,37.2
+Diego Alves_824,BA,Salvador,15,36.8
+Eduarda Rocha_825,PE,Recife,55,38.5
+Felipe Costa_826,CE,Fortaleza,28,36.9
+Gabriela Silva_827,RJ,Niterói,34,37.6
+Henrique Santos_828,PR,Curitiba,47,37.0
+Isabela Martins_829,SC,Florianópolis,22,36.4
+João Pedro_830,RS,Porto Alegre,39,37.9
+Karen Oliveira_831,GO,Goiânia,51,38.3
+Lucas Ferreira_832,AM,Manaus,19,36.7
+Mariana Gomes_833,PB,João Pessoa,44,37.4
+Nathan Ribeiro_834,ES,Vitória,63,36.5
+Olívia Barros_835,RN,Natal,27,37.1
+Paulo Henrique_836,AL,Maceió,58,39.2
+Quezia Nunes_837,SE,Aracaju,33,36.9
+Rafael Castro_838,PI,Teresina,40,37.8
+Sofia Duarte_839,MA,São Luís,29,36.8
+Thiago Moraes_840,DF,Brasília,36,37.3
+Ana Souza_841,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_842,SP,São Paulo,42,38.1
+Carla Mendes_843,MG,Belo Horizonte,31,37.2
+Diego Alves_844,BA,Salvador,15,36.8
+Eduarda Rocha_845,PE,Recife,55,38.5
+Felipe Costa_846,CE,Fortaleza,28,36.9
+Gabriela Silva_847,RJ,Niterói,34,37.6
+Henrique Santos_848,PR,Curitiba,47,37.0
+Isabela Martins_849,SC,Florianópolis,22,36.4
+João Pedro_850,RS,Porto Alegre,39,37.9
+Karen Oliveira_851,GO,Goiânia,51,38.3
+Lucas Ferreira_852,AM,Manaus,19,36.7
+Mariana Gomes_853,PB,João Pessoa,44,37.4
+Nathan Ribeiro_854,ES,Vitória,63,36.5
+Olívia Barros_855,RN,Natal,27,37.1
+Paulo Henrique_856,AL,Maceió,58,39.2
+Quezia Nunes_857,SE,Aracaju,33,36.9
+Rafael Castro_858,PI,Teresina,40,37.8
+Sofia Duarte_859,MA,São Luís,29,36.8
+Thiago Moraes_860,DF,Brasília,36,37.3
+Ana Souza_861,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_862,SP,São Paulo,42,38.1
+Carla Mendes_863,MG,Belo Horizonte,31,37.2
+Diego Alves_864,BA,Salvador,15,36.8
+Eduarda Rocha_865,PE,Recife,55,38.5
+Felipe Costa_866,CE,Fortaleza,28,36.9
+Gabriela Silva_867,RJ,Niterói,34,37.6
+Henrique Santos_868,PR,Curitiba,47,37.0
+Isabela Martins_869,SC,Florianópolis,22,36.4
+João Pedro_870,RS,Porto Alegre,39,37.9
+Karen Oliveira_871,GO,Goiânia,51,38.3
+Lucas Ferreira_872,AM,Manaus,19,36.7
+Mariana Gomes_873,PB,João Pessoa,44,37.4
+Nathan Ribeiro_874,ES,Vitória,63,36.5
+Olívia Barros_875,RN,Natal,27,37.1
+Paulo Henrique_876,AL,Maceió,58,39.2
+Quezia Nunes_877,SE,Aracaju,33,36.9
+Rafael Castro_878,PI,Teresina,40,37.8
+Sofia Duarte_879,MA,São Luís,29,36.8
+Thiago Moraes_880,DF,Brasília,36,37.3
+Ana Souza_881,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_882,SP,São Paulo,42,38.1
+Carla Mendes_883,MG,Belo Horizonte,31,37.2
+Diego Alves_884,BA,Salvador,15,36.8
+Eduarda Rocha_885,PE,Recife,55,38.5
+Felipe Costa_886,CE,Fortaleza,28,36.9
+Gabriela Silva_887,RJ,Niterói,34,37.6
+Henrique Santos_888,PR,Curitiba,47,37.0
+Isabela Martins_889,SC,Florianópolis,22,36.4
+João Pedro_890,RS,Porto Alegre,39,37.9
+Karen Oliveira_891,GO,Goiânia,51,38.3
+Lucas Ferreira_892,AM,Manaus,19,36.7
+Mariana Gomes_893,PB,João Pessoa,44,37.4
+Nathan Ribeiro_894,ES,Vitória,63,36.5
+Olívia Barros_895,RN,Natal,27,37.1
+Paulo Henrique_896,AL,Maceió,58,39.2
+Quezia Nunes_897,SE,Aracaju,33,36.9
+Rafael Castro_898,PI,Teresina,40,37.8
+Sofia Duarte_899,MA,São Luís,29,36.8
+Thiago Moraes_900,DF,Brasília,36,37.3
+Ana Souza_901,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_902,SP,São Paulo,42,38.1
+Carla Mendes_903,MG,Belo Horizonte,31,37.2
+Diego Alves_904,BA,Salvador,15,36.8
+Eduarda Rocha_905,PE,Recife,55,38.5
+Felipe Costa_906,CE,Fortaleza,28,36.9
+Gabriela Silva_907,RJ,Niterói,34,37.6
+Henrique Santos_908,PR,Curitiba,47,37.0
+Isabela Martins_909,SC,Florianópolis,22,36.4
+João Pedro_910,RS,Porto Alegre,39,37.9
+Karen Oliveira_911,GO,Goiânia,51,38.3
+Lucas Ferreira_912,AM,Manaus,19,36.7
+Mariana Gomes_913,PB,João Pessoa,44,37.4
+Nathan Ribeiro_914,ES,Vitória,63,36.5
+Olívia Barros_915,RN,Natal,27,37.1
+Paulo Henrique_916,AL,Maceió,58,39.2
+Quezia Nunes_917,SE,Aracaju,33,36.9
+Rafael Castro_918,PI,Teresina,40,37.8
+Sofia Duarte_919,MA,São Luís,29,36.8
+Thiago Moraes_920,DF,Brasília,36,37.3
+Ana Souza_921,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_922,SP,São Paulo,42,38.1
+Carla Mendes_923,MG,Belo Horizonte,31,37.2
+Diego Alves_924,BA,Salvador,15,36.8
+Eduarda Rocha_925,PE,Recife,55,38.5
+Felipe Costa_926,CE,Fortaleza,28,36.9
+Gabriela Silva_927,RJ,Niterói,34,37.6
+Henrique Santos_928,PR,Curitiba,47,37.0
+Isabela Martins_929,SC,Florianópolis,22,36.4
+João Pedro_930,RS,Porto Alegre,39,37.9
+Karen Oliveira_931,GO,Goiânia,51,38.3
+Lucas Ferreira_932,AM,Manaus,19,36.7
+Mariana Gomes_933,PB,João Pessoa,44,37.4
+Nathan Ribeiro_934,ES,Vitória,63,36.5
+Olívia Barros_935,RN,Natal,27,37.1
+Paulo Henrique_936,AL,Maceió,58,39.2
+Quezia Nunes_937,SE,Aracaju,33,36.9
+Rafael Castro_938,PI,Teresina,40,37.8
+Sofia Duarte_939,MA,São Luís,29,36.8
+Thiago Moraes_940,DF,Brasília,36,37.3
+Ana Souza_941,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_942,SP,São Paulo,42,38.1
+Carla Mendes_943,MG,Belo Horizonte,31,37.2
+Diego Alves_944,BA,Salvador,15,36.8
+Eduarda Rocha_945,PE,Recife,55,38.5
+Felipe Costa_946,CE,Fortaleza,28,36.9
+Gabriela Silva_947,RJ,Niterói,34,37.6
+Henrique Santos_948,PR,Curitiba,47,37.0
+Isabela Martins_949,SC,Florianópolis,22,36.4
+João Pedro_950,RS,Porto Alegre,39,37.9
+Karen Oliveira_951,GO,Goiânia,51,38.3
+Lucas Ferreira_952,AM,Manaus,19,36.7
+Mariana Gomes_953,PB,João Pessoa,44,37.4
+Nathan Ribeiro_954,ES,Vitória,63,36.5
+Olívia Barros_955,RN,Natal,27,37.1
+Paulo Henrique_956,AL,Maceió,58,39.2
+Quezia Nunes_957,SE,Aracaju,33,36.9
+Rafael Castro_958,PI,Teresina,40,37.8
+Sofia Duarte_959,MA,São Luís,29,36.8
+Thiago Moraes_960,DF,Brasília,36,37.3
+Ana Souza_961,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_962,SP,São Paulo,42,38.1
+Carla Mendes_963,MG,Belo Horizonte,31,37.2
+Diego Alves_964,BA,Salvador,15,36.8
+Eduarda Rocha_965,PE,Recife,55,38.5
+Felipe Costa_966,CE,Fortaleza,28,36.9
+Gabriela Silva_967,RJ,Niterói,34,37.6
+Henrique Santos_968,PR,Curitiba,47,37.0
+Isabela Martins_969,SC,Florianópolis,22,36.4
+João Pedro_970,RS,Porto Alegre,39,37.9
+Karen Oliveira_971,GO,Goiânia,51,38.3
+Lucas Ferreira_972,AM,Manaus,19,36.7
+Mariana Gomes_973,PB,João Pessoa,44,37.4
+Nathan Ribeiro_974,ES,Vitória,63,36.5
+Olívia Barros_975,RN,Natal,27,37.1
+Paulo Henrique_976,AL,Maceió,58,39.2
+Quezia Nunes_977,SE,Aracaju,33,36.9
+Rafael Castro_978,PI,Teresina,40,37.8
+Sofia Duarte_979,MA,São Luís,29,36.8
+Thiago Moraes_980,DF,Brasília,36,37.3
+Ana Souza_981,RJ,Rio de Janeiro,24,36.6
+Bruno Lima_982,SP,São Paulo,42,38.1
+Carla Mendes_983,MG,Belo Horizonte,31,37.2
+Diego Alves_984,BA,Salvador,15,36.8
+Eduarda Rocha_985,PE,Recife,55,38.5
+Felipe Costa_986,CE,Fortaleza,28,36.9
+Gabriela Silva_987,RJ,Niterói,34,37.6
+Henrique Santos_988,PR,Curitiba,47,37.0
+Isabela Martins_989,SC,Florianópolis,22,36.4
+João Pedro_990,RS,Porto Alegre,39,37.9
+Karen Oliveira_991,GO,Goiânia,51,38.3
+Lucas Ferreira_992,AM,Manaus,19,36.7
+Mariana Gomes_993,PB,João Pessoa,44,37.4
+Nathan Ribeiro_994,ES,Vitória,63,36.5
+Olívia Barros_995,RN,Natal,27,37.1
+Paulo Henrique_996,AL,Maceió,58,39.2
+Quezia Nunes_997,SE,Aracaju,33,36.9
+Rafael Castro_998,PI,Teresina,40,37.8
+Sofia Duarte_999,MA,São Luís,29,36.8
+Thiago Moraes_1000,DF,Brasília,36,37.3
